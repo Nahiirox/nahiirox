@@ -1,44 +1,34 @@
-  <h1>Hi there, I'm Nahiirox <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
-<p>I’m a Software Engineering Undergraduate who is interested in front-end development. Currently, I am working mainly on MERN stack projects. Also, I am working as a freelance graphic designer.</p>
-<p>Want to know more about me?</p>
-  <p>
-    <a href="https://www.linkedin.com/in/hgdsandakalum/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
-  <a href="https://www.hackerrank.com/h_g_d_sandakalum" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&amp;logo=HackerRank&amp;logoColor=white&amp;link=https://www.hackerrank.com/h_g_d_sandakalum)](https://www.hackerrank.com/h_g_d_sandakalum"></a>
-    <a href="https://www.instagram.com/_.sanda._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&amp;style=flat-square&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/_.sanda._)](https://www.instagram.com/_.sanda._/"></a>
-    <a href="https://www.facebook.com/h.g.d.sandakalum" target="_blank"><img src="https://img.shields.io/badge/Facebook-222222?&amp;style=flat-square&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/h.g.d.sandakalum)](https://www.facebook.com/h.g.d.sandakalum"></a>
-    <a href="https://stackoverflow.com/users/16900340/dananjaya-sandakalum"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&amp;logo=stack-overflow&amp;logoColor=white&amp;link=https://stackoverflow.com/users/16900340/dananjaya-sandakalum)](https://stackoverflow.com/users/16900340/dananjaya-sandakalum"></a>
-  </p>
-<h2 id="skills">Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"></h2>
-<p><img src="https://img.shields.io/badge/Code-JAVA-informational?style=flat&amp;logo=java&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&amp;logo=php&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&amp;logo=c%2B%2B&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&amp;logo=html5&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&amp;logo=css3&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&amp;logo=bootstrap&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&amp;logo=typescript&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-NodeJS-informational?style=flat&amp;logo=Node.js&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&amp;logo=express&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-ReactJS-informational?style=flat&amp;logo=react&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-ReactNative-informational?style=flat&amp;logo=react&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-VueJS-informational?style=flat&amp;logo=vue.js&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-Laravel-informational?style=flat&amp;logo=laravel&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-Flutter-informational?style=flat&amp;logo=flutter&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-Dart-informational?style=flat&amp;logo=dart&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-Android-informational?style=flat&amp;logo=android&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&amp;logo=mongodb&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&amp;logo=mysql&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Database-SQLite-informational?style=flat&amp;logo=sqlite&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/WEB-WordPress-informational?style=flat&amp;logo=wordpress&amp;logoColor=white&amp;color=ffffff" alt=""></p>
-<h2 id="github-stats">Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"></h2>
-<a href="https://github.com/hgdsandakalum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgdsandakalum&amp;show_icons=true&amp;theme=dark&amp;langs_count=8&amp;count_private=true&amp;card_width=280" height="220px">
+  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"> Hey, Nice to see you.</h1>
+<p>I’m Bill Chan😉, technology consultant 👨🏻‍💻 from Hong Kong. I’m an open-source profession and mostly develop in Python 🐍.</p>
+<p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;width=500&amp;lines=Technology+Consultant+and+FinTech+Engineer;Python+Developer+with+3%2B+Years+Experience;Passionate+about+Algorithmic+Trading" alt="Typing SVG"></a></p>
+<h3 id="how-to-reach-me">How to reach me:</h3>
+<a href="mailto: billpwchan@hotmail.com">
+<img src="https://img.shields.io/badge/-billpwchan%40hotmail.com-7B83EB?&amp;style=for-the-badge&amp;logo=Microsoft-outlook&amp;logoColor=white"></a>  <a href="https://www.instagram.com/billpwchan/">   <img src="https://img.shields.io/badge/@billpwchan_-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>  <a href="https://www.linkedin.com/in/billpwchan1998/"><img src="https://img.shields.io/badge/billpwchan-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>  <a href="https://www.billpwchan.com/"><img src="https://img.shields.io/badge/billpwchan.com-%2312100E.svg?&amp;style=for-the-badge&amp;logo=safari&amp;logoColor=white"></a>
+<h3 id="current-status-quo">Current Status Quo:</h3>
+<ul>
+<li>💼 I’m pursuing a <strong>MSc Computing degree in Management and Finance</strong>.</li>
+<li>🔭 I’m currently working on <strong>FinTech (NLP and DLT)</strong> and <strong>Algorithmic Trading</strong></li>
+<li>🌱 I’m currently learning <strong>PyTorch</strong> and <strong>Hybrid Cloud</strong></li>
+<li>🤔 My research interests are with <strong>Blockchain Systems, Natural Language Processing</strong>, etc</li>
+<li>🔍 I’m looking for career opportunities in the <strong>banking</strong> industry</li>
+<li>💬 Feel free to discuss with me about <strong>Privacy Engineering, Blockchain in Trade Finance and NLP</strong></li>
+<li>👀 See my <a href="https://www.billpwchan.com">Personal Portfolio</a> to get more info</li>
+</ul>
+<h3 id="tools-i-work-upon-">Tools I work upon : 🛠</h3>
+<p><img src="https://img.shields.io/badge/Java%20-%23E00033.svg?&amp;style=for-the-badge&amp;logo=java&amp;logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white">   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&amp;style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E">   <img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&amp;style=for-the-badge&amp;logo=php&amp;logoColor=white">   <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&amp;style=for-the-badge&amp;logo=angular&amp;logoColor=white"><br>
+<img src="https://img.shields.io/badge/tableau%20-%230D597F.svg?&amp;style=for-the-badge&amp;logo=tableau&amp;logoColor=white">   <img src="https://img.shields.io/badge/tensorflow%20-%23FF6F00.svg?&amp;style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white">   <img src="https://img.shields.io/badge/neo4j%20-%23008CC1.svg?&amp;style=for-the-badge&amp;logo=neo4j&amp;logoColor=white">   <img src="https://img.shields.io/badge/mongodb%20-%2347A248svg?&amp;style=for-the-badge&amp;logo=mongodb&amp;logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white">   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&amp;logo=Visual-studio-code&amp;logoColor=blue"></p>
+<h3 id="stats-overview--cyclone">Stats Overview : :cyclone:</h3>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=billpwchan&amp;show_icons=true&amp;count_private=true&amp;hide=stars&amp;include_all_commits=false&amp;theme=material-palenight">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=billpwchan&amp;theme=dracula&amp;no-bg=true&amp;row=1">
+<h3 id="github-highlights-blossom">GitHub Highlights: :blossom:</h3>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billpwchan&amp;langs_count=8&amp;layout=compact&amp;theme=material-palenight&amp;hide=html,Tcl">
 </a>
-<a href="https://github.com/hgdsandakalum">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hgdsandakalum&amp;count_private=true&amp;hide=stars&amp;show_icons=true&amp;theme=dark&amp;line_height=27" alt="Dananjaya's github stats" height="220px">
+<a href="">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=billpwchan&amp;theme=material-palenight">
 </a>
-<h2 id="github-trophies">Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px"></h2>
-<img src="https://github-profile-trophy.vercel.app/?username=hgdsandakalum&amp;theme=onestar&amp;rank=SSS,SS,S,AAA,AA,A,B,C,SECRET">
+<h3 id="github-activity">Github Activity: 🔥</h3>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=billpwchan&amp;theme=dracula&amp;color=B994E6&amp;bg_color=2B2D3D">
 <hr>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=hgdsandakalum.602d829" alt="visitors"></p>
-<h5 id="credit-hgdsandakalum--last-edited-on-17102021">Credit: <a href="https://github.com/hgdsandakalum">hgdsandakalum</a> | Last Edited on: 17/10/2021</h5> 
+<p>Credits: <a href="https://github.com/billpwchan">billpwchan</a></p>
+<p>Last Edited on: 22/07/2021</p> 

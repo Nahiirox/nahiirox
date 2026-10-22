@@ -1,93 +1,44 @@
-  <h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<p align="center">
-</p>
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&amp;font=IBM+Plex+Sans&amp;color=abcdef&amp;size=20&amp;lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+a+Computer+Science+engineer"></a>
-</p>
-   <a href="https://www.linkedin.com/in/aastha-jha-805001106/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
-  </a>   
-   <a href="https://stackoverflow.com/users/11911694/aastha-jha" target="_blank">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&amp;logo=stack-overflow&amp;logoColor=white">
-  </a>  
-  <a href="https://www.kaggle.com/aastha124" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=Kaggle&amp;logoColor=white">
-  </a>  
- <a href="https://www.hackerrank.com/aasthajha123/hackos" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white">
-  </a>
-<ul>
-<li>👋 Hi, I’m Aastha</li>
-<li>💼 I’m a Data Scientist at Dubai Holding</li>
-<li>💬 Talk to me about freelancing opportunities in data science and software engineering</li>
-<li>👯 I’m looking to collaborate on backend software engineering projects</li>
-</ul>
-<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
-<a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=java&amp;logoColor=white">
-  </a>
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white">
-  </a>
-   <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white">
-  </a>
-   <a href="https://keras.io/" target="_blank">
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&amp;logo=Keras&amp;logoColor=white">
-  </a>
-   <a href="https://numpy.org/" target="_blank">
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&amp;logo=numpy&amp;logoColor=white">
-  </a>
-   <a href="https://pandas.pydata.org/" target="_blank">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&amp;logo=pandas&amp;logoColor=white">
-  </a>
-   <a href="https://plotly.com/" target="_blank">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&amp;logo=plotly&amp;logoColor=white">
-  </a>
-   <a href="https://streamlit.io/" target="_blank">
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=Streamlit&amp;logoColor=white">
-  </a>
-<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white"></a>
-   <a href="https://opencv.org/" target="_blank">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&amp;logo=OpenCV&amp;logoColor=white">
-  </a>
-   <a href="https://www.selenium.dev/" target="_blank">
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&amp;logo=Selenium&amp;logoColor=white">
-  </a>
-   <a href="https://jupyter.org/" target="_blank">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white">
-  </a>
-<a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&amp;logo=heroku&amp;logoColor=white"></a>
-<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&amp;logo=docker&amp;logoColor=white"></a>
-<a href="https://www.flask.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white"></a>
-<h2> Github Stats (Expand to View) <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"> </h2>
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aastha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aastha12&amp;show_icons=true&amp;count_private=true&amp;theme=algolia" height="192px"></a>
-<br>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aastha12&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=algolia" alt="aastha12" height="192px">
-  <br>
+  <h1>Hi there, I'm Sandakalum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
+<p>I’m a Software Engineering Undergraduate who is interested in front-end development. Currently, I am working mainly on MERN stack projects. Also, I am working as a freelance graphic designer.</p>
+<p>Want to know more about me?</p>
+  <p>
+    <a href="https://www.linkedin.com/in/hgdsandakalum/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
+  <a href="https://www.hackerrank.com/h_g_d_sandakalum" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-222222?style=flat-square&amp;logo=HackerRank&amp;logoColor=white&amp;link=https://www.hackerrank.com/h_g_d_sandakalum)](https://www.hackerrank.com/h_g_d_sandakalum"></a>
+    <a href="https://www.instagram.com/_.sanda._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&amp;style=flat-square&amp;logo=instagram&amp;logoColor=white&amp;link=https://www.instagram.com/_.sanda._)](https://www.instagram.com/_.sanda._/"></a>
+    <a href="https://www.facebook.com/h.g.d.sandakalum" target="_blank"><img src="https://img.shields.io/badge/Facebook-222222?&amp;style=flat-square&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/h.g.d.sandakalum)](https://www.facebook.com/h.g.d.sandakalum"></a>
+    <a href="https://stackoverflow.com/users/16900340/dananjaya-sandakalum"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&amp;logo=stack-overflow&amp;logoColor=white&amp;link=https://stackoverflow.com/users/16900340/dananjaya-sandakalum)](https://stackoverflow.com/users/16900340/dananjaya-sandakalum"></a>
   </p>
-</details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br>
-   <a href="https://github.com/aastha12"><img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aastha12&amp;custom_title=Aastha's%20Contribution%20Graph&amp;theme=react-dark"></a>
-  <br>
-</details>
-<br>
-<h2 id="popular-projects">Popular Projects</h2>
-<a href="https://github.com/aastha12/MDX-Food-Safety-Hackathon">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&amp;repo=MDX-Food-Safety-Hackathon&amp;theme=onedark">
-</a>  
-<a href="https://github.com/aastha12/Loan_Prediction">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=aastha12&amp;repo=Loan_Prediction&amp;theme=onedark">
-</a> 
+<h2 id="skills">Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"></h2>
+<p><img src="https://img.shields.io/badge/Code-JAVA-informational?style=flat&amp;logo=java&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&amp;logo=php&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&amp;logo=c%2B%2B&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&amp;logo=html5&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&amp;logo=css3&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&amp;logo=bootstrap&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&amp;logo=typescript&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-NodeJS-informational?style=flat&amp;logo=Node.js&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&amp;logo=express&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-ReactJS-informational?style=flat&amp;logo=react&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-ReactNative-informational?style=flat&amp;logo=react&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-VueJS-informational?style=flat&amp;logo=vue.js&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-Laravel-informational?style=flat&amp;logo=laravel&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-Flutter-informational?style=flat&amp;logo=flutter&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-Dart-informational?style=flat&amp;logo=dart&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Code-Android-informational?style=flat&amp;logo=android&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&amp;logo=mongodb&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&amp;logo=mysql&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Database-SQLite-informational?style=flat&amp;logo=sqlite&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/WEB-WordPress-informational?style=flat&amp;logo=wordpress&amp;logoColor=white&amp;color=ffffff" alt=""></p>
+<h2 id="github-stats">Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"></h2>
+<a href="https://github.com/hgdsandakalum">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgdsandakalum&amp;show_icons=true&amp;theme=dark&amp;langs_count=8&amp;count_private=true&amp;card_width=280" height="220px">
+</a>
+<a href="https://github.com/hgdsandakalum">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=hgdsandakalum&amp;count_private=true&amp;hide=stars&amp;show_icons=true&amp;theme=dark&amp;line_height=27" alt="Dananjaya's github stats" height="220px">
+</a>
+<h2 id="github-trophies">Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px"></h2>
+<img src="https://github-profile-trophy.vercel.app/?username=hgdsandakalum&amp;theme=onestar&amp;rank=SSS,SS,S,AAA,AA,A,B,C,SECRET">
 <hr>
-<p>Credit: <a href="https://github.com/aastha12">aastha12</a></p>
-<p>Last Edited on: 19/10/2021</p> 
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=hgdsandakalum.602d829" alt="visitors"></p>
+<h5 id="credit-hgdsandakalum--last-edited-on-17102021">Credit: <a href="https://github.com/hgdsandakalum">hgdsandakalum</a> | Last Edited on: 17/10/2021</h5> 
